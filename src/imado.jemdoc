@@ -1,0 +1,168 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= ICCV2017 Workshop on Image-based Modeling of Articulated and Deformable Objects (IMADO)
+
+~~~
+=== Imortant dates:
+- Submission deadline: July 24, 2017 (23:59 PT)
+- Acceptance notification: August 18, 2017
+- Workshop: August 25, 2017 
+~~~
+
+== {{<a name='Overview'> Overview </a>}}
+Modeling and shape analysis of articulated and deformable objects (ADOs) is a challenging field of computer vision. Since the early days of computer vision, the largest part of the literature has concentrated on the modeling of static, rigid objects and structures, using stereo and multi-camera systems, inferring shape from motion, shadows, refraction, shading, photometric stereo, etc. Most of these methods are not suitable for modeling articulated and deformable objects for different reasons. On the other hand, a relatively small number of works have treated the problem of articulated and deformable object modeling, by using shape and trajectory basis analysis, feature tracking, as well as by combining simplified geometric shapes, like generalized cylinders, geons, etc.
+
+In the last decade interest in 3D modeling of ADOs has been renewed as models and approaches introduced for specific problems, as for example human body modeling and human pose estimation, hand modeling and tracking, and face analysis, have become more mature allowing their use in more general and/or challenging problems. Moreover, a large number of detailed 3D models has become available, both artistically created and captured by specialized equipment, allowing the use of more sophisticated Machine Learning and Deep Learning techniques. The recent advent of the virtual and augmented reality era on one hand and the ubiquity of GPGPU computing on the other has also increased the interest in 3D modeling and tracking of ADOs for real-time applications.
+
+The main focus of the workshop is on the generation of 3D models of articulated and deformable objects from images and videos. We aim to bring together and offer a forum of discussion and interaction among researchers interested in modeling, reconstruction and pose estimation techniques and favor the cross-fertilization between fields like Computer Vision, Pattern Recognition, Computer Graphics, Robotics, and Machine Learning. We believe that the workshop will give a new view on ADO 3D modeling from videos and images and thus will be interesting to 3D vision and machine learning experts on one hand, and will offer new solutions to challenging problems in computer vision, pattern recognition and computer graphics, and thus would appeal to experts in these fields on the other.
+
+=== Suggested topics include but are not limited to:
+- Articulated and deformable object modeling from videos
+- Articulated and deformable object modeling from a single image
+- Multi-view articulated and deformable object modeling
+- 3D animation of articulated and deformable objects from videos
+- 3D shape tracking
+- 3D shape registration
+- Full and partial 3D shape retrieval
+- Sketch-based modeling and retrieval
+- Character modeling based on gesture drawings
+- Articulated object pose estimation (including human body and hand pose estimation)
+- 3D modeling of animals
+- Shape analysis and synthesis
+- Shape similarity and correspondence
+- 4D reconstruction
+- Articulated and deformable object 3D shape and pose datasets
+
+== {{<a name='CFP'> Call for Papers </a>}}
+Relevant original contributions as well as contributions that have been recently presented in other venues, including the ICCV main conference are welcome. Accepted submission will be invited for presentation during the oral and poster sessions of the workshop. 
+
+=== Instructions
+-   Submissions should follow the ICCV format (templates can be found [http://iccv2017.thecvf.com/submission/main_conference/author_guidelines here])
+-   The recommended paper length is 4-8 pages
+-   Review process will be double blind
+-   Official proceedings will be available
+
+=== Submission Site:
+[https://cmt3.research.microsoft.com/IMADO2017 CMT Website]
+
+== {{<a name='Speakers'> Invited Speakers </a>}}
+~~~
+{}{raw}
+<table class="noBorder">
+<tr>
+<td>
+<img border="0" alt="Lourdes Agapito" src="http://www0.cs.ucl.ac.uk/staff/L.Agapito/images/20071114-lourdesAgapito-small.jpg" height="120">
+</td>
+<td>
+<img border="0" alt="Andrew Fitzgibbon" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/avatar_user__1466781868-180x180.jpg" height="120">
+</td>
+<td style="overflow:hidden;height:120px;">
+<img border="0" alt="Ron Kimmel" src="http://www.cs.technion.ac.il/~ron/fade_face2.jpg" style="height:167px;margin:0 0 -47px 0;">
+</td>
+</tr>
+<tr>
+<td>
+<a href='http://www0.cs.ucl.ac.uk/staff/L.Agapito/'>Lourdes Agapito</a>
+</td>
+<td>
+<a href='https://www.microsoft.com/en-us/research/people/awf'>Andrew Fitzgibbon</a>
+</td>
+<td>
+<a href='http://www.cs.technion.ac.il/~ron/'>Ron Kimmel</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 2em;">
+UCL
+</td>
+<td style="padding-bottom: 2em;">
+Microsoft HoloLens
+</td>
+<td style="padding-bottom: 2em;">
+Technion
+</td>
+</tr>
+<tr>
+<td style="overflow:hidden;height:120px;">
+<img border="0" alt="Hao Li" src="http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me_files/Screen%20Shot%202014-03-08%20at%202.35.34%20PM.jpg" style="height:167px;margin:0 0 -47px 0;">
+</td>
+<td style="overflow:hidden;height:120px;">
+<img border="0" alt="Niloy Mitra" src="http://www0.cs.ucl.ac.uk/staff/n.mitra/images/niloy_may_13.jpg"  style="height:167px;margin:0 0 -47px 0;">
+</td>
+<td>
+<img border="0" alt="Silvia Zuffi" src="http://arm.mi.imati.cnr.it/mypage/doc/zuffi-2/silvia.jpg" style="height:120px;">
+</td>
+</tr>
+<tr>
+<td>
+<a href='http://www.hao-li.com'>Hao Li</a>
+</td>
+<td>
+<a href='http://www0.cs.ucl.ac.uk/staff/n.mitra/'>Niloy Mitra</a>
+</td>
+<td>
+<a href='http://arm.mi.imati.cnr.it/mypage/mypage.php?id=2'>Silvia Zuffi</a>
+</td>
+</tr>
+<tr>
+<td>
+USC
+</td>
+<td>
+UCL
+</td>
+<td>
+Technion
+</td>
+</tr>
+</table>
+~~~
+
+
+== {{<a name='Organizers'> Organizers </a>}}
+~~~
+{}{raw}
+<table class="noBorder">
+<tr>
+<td>
+<img border="0" alt="Valsamis Ntouskos" src="http://www.diag.uniroma1.it/%7Ealcor/images/valsamis_ntouskos.jpeg" height="120">
+</td>
+<td>
+<img border="0" alt="Emanuele Rodolà" src="https://vision.in.tum.de/_media/members/rodola/member.png" height="120">
+</td>
+<td>
+<img border="0" alt="Fiora Pirri" src="http://www.diag.uniroma1.it/~alcor/images/Pirri.jpg" height="120">
+</td>
+<td>
+<img border="0" alt="Michael Bronstein" src="http://www.inf.usi.ch/bronstein/images/photo_2d2.jpg" height="120">
+</td>
+</tr>
+<tr>
+<td>
+<a href='http://www.diag.uniroma1.it/~ntouskos/'>Valsamis Ntouskos</a>
+</td>
+<td>
+<a href='http://sites.google.com/site/erodola/'>Emanuele Rodolà</a>
+</td>
+<td>
+<a href='http://www.dis.uniroma1.it/~pirri/'>Fiora Pirri</a>
+</td>
+<td>
+<a href='http://www.inf.usi.ch/bronstein/'>Michael Bronstein</a>
+</td>
+</tr>
+<tr>
+<td>
+Sapienza University
+</td>
+<td>
+USI Lugano
+</td>
+<td>
+Sapienza University
+</td>
+<td>
+USI Lugano
+</td>
+</tr>
+</table>
+~~~
