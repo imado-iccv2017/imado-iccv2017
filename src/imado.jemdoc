@@ -170,3 +170,5 @@ USI Lugano
 == {{<a name='Contact'> Contact </a>}}
 
 [imado.workshop@gmail.com imado.workshop@gmail.com]
+
+{{<?php include_once("analyticstracking.php") ?>}}
