@@ -59,6 +59,9 @@ The workshop will mainly consist of invited talks given by renowned researchers 
 <td style="overflow:hidden;height:120px;">
 <img border="0" alt="Ron Kimmel" src="https://www.cs.technion.ac.il/~ron/fade_face2.jpg" style="height:167px;margin:0 0 -47px 0;">
 </td>
+<td style="overflow:hidden;height:120px;">
+<img border="0" alt="Hao Li" src="http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me_files/Screen%20Shot%202014-03-08%20at%202.35.34%20PM.jpg" style="height:167px;margin:0 0 -47px 0;">
+</td>
 </tr>
 <tr>
 <td>
@@ -69,6 +72,9 @@ The workshop will mainly consist of invited talks given by renowned researchers 
 </td>
 <td>
 <a href='https://www.cs.technion.ac.il/~ron/'>Ron Kimmel</a>
+</td>
+<td>
+<a href='http://www.hao-li.com'>Hao Li</a>
 </td>
 </tr>
 <tr>
@@ -81,13 +87,16 @@ Microsoft HoloLens
 <td style="padding-bottom: 2em;">
 Technion
 </td>
+<td style="padding-bottom: 2em;">
+USC
+</td>
 </tr>
 <tr>
 <td style="overflow:hidden;height:120px;">
-<img border="0" alt="Hao Li" src="http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me_files/Screen%20Shot%202014-03-08%20at%202.35.34%20PM.jpg" style="height:167px;margin:0 0 -47px 0;">
-</td>
-<td style="overflow:hidden;height:120px;">
 <img border="0" alt="Niloy Mitra" src="http://www0.cs.ucl.ac.uk/staff/n.mitra/images/niloy_may_13.jpg"  style="height:167px;margin:0 0 -47px 0;">
+</td>
+<td>
+<img border="0" alt="Alla Sheffer" src="https://www.cs.ubc.ca/~sheffa/intro_files/image006.jpg" style="height:120px;">
 </td>
 <td>
 <img border="0" alt="Silvia Zuffi" src="http://arm.mi.imati.cnr.it/mypage/doc/zuffi-2/silvia.jpg" style="height:120px;">
@@ -95,10 +104,10 @@ Technion
 </tr>
 <tr>
 <td>
-<a href='http://www.hao-li.com'>Hao Li</a>
+<a href='http://www0.cs.ucl.ac.uk/staff/n.mitra/'>Niloy Mitra</a>
 </td>
 <td>
-<a href='http://www0.cs.ucl.ac.uk/staff/n.mitra/'>Niloy Mitra</a>
+<a href='http://www.cs.ubc.ca/~sheffa/'>Alla Sheffer</a>
 </td>
 <td>
 <a href='http://arm.mi.imati.cnr.it/mypage/mypage.php?id=2'>Silvia Zuffi</a>
@@ -106,10 +115,10 @@ Technion
 </tr>
 <tr>
 <td>
-USC
+UCL
 </td>
 <td>
-UCL
+UBC
 </td>
 <td>
 IMATI-CNR
