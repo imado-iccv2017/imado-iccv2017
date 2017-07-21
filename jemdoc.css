@@ -370,3 +370,19 @@ table.imgtable, table.imgtable td {
     border:none !important;
     border-collapse:collapse;
 }
+
+#schedule tr:nth-child(1) td:nth-child(2),
+#schedule tr:nth-child(6) td:nth-child(2),
+#schedule tr:nth-child(10) td:nth-child(2),
+#schedule tr:nth-child(15) td:nth-child(2)
+ {font-style: italic;}
+#schedule {background: #FFF}
+#schedule tr:nth-child(n+2):nth-child(-n+5),
+#schedule tr:nth-child(n+7):nth-child(-n+9),
+#schedule tr:nth-child(n+7):nth-child(-n+9),
+#schedule tr:nth-child(n+11):nth-child(-n+14),
+#schedule tr:nth-child(16) {background: #E5E5FF}
+#schedule td:nth-child(2) {
+  text-align: left;
+  padding-left: 30px;
+}

@@ -2,17 +2,17 @@
 = ICCV2017 Workshop on Image-based Modeling of Articulated and Deformable Objects (IMADO)
 
 ~~~
-=== Imortant dates:
-- Submission deadline: July 24, 2017 (23:59 PT)
+=== Important dates:
+- Submission deadline: July 27, 2017 (23:59 PT) *(extended)*
 - Acceptance notification: August 18, 2017
-- Camera Ready: August 25, 2017 
+- Camera Ready: August 25, 2017
 - Workshop: October 28, 2017
 ~~~
 
 == {{<a name='Overview'> Overview </a>}}
 Modeling and shape analysis of articulated and deformable objects (ADOs) is a challenging field of computer vision. Since the early days of computer vision, the largest part of the literature has concentrated on the modeling of static, rigid objects and structures, using stereo and multi-camera systems, inferring shape from motion, shadows, refraction, shading, photometric stereo, etc. Most of these methods are not suitable for modeling articulated and deformable objects for different reasons. On the other hand, a relatively small number of works have treated the problem of articulated and deformable object modeling, by using shape and trajectory basis analysis, feature tracking, as well as by combining simplified geometric shapes, like generalized cylinders, geons, etc.
 
-In the last decade interest in 3D modeling of ADOs has been renewed as models and approaches introduced for specific problems, as for example human body modeling and human pose estimation, hand modeling and tracking, and face analysis, have become more mature allowing their use in more general and/or challenging problems. Moreover, a large number of detailed 3D models has become available, both artistically created and captured by specialized equipment, allowing the use of more sophisticated Machine Learning and Deep Learning techniques. The recent advent of the virtual and augmented reality era on one hand and the ubiquity of GPGPU computing on the other has also increased the interest in 3D modeling and tracking of ADOs for real-time applications.
+In the last decade interest in 3D modeling of ADOs has been renewed as models and approaches introduced for specific problems, as for example human body modeling and human pose estimation, hand modeling and tracking, and face analysis, have become more mature allowing their use in more general and/or challenging problems. Moreover, a large number of detailed 3D models has become available, both artistically created and captured by specialized equipment, allowing the use of more sophisticated Machine Learning and Deep Learning techniques. The recent advent of the virtual and augmented reality era on one hand and the ubiquity of GPU computing on the other has also increased the interest in 3D modeling and tracking of ADOs for real-time applications.
 
 The main focus of the workshop is on the generation of 3D models of articulated and deformable objects from images and videos. We aim to bring together and offer a forum of discussion and interaction among researchers interested in modeling, reconstruction and pose estimation techniques and favor the cross-fertilization between fields like Computer Vision, Pattern Recognition, Computer Graphics, Robotics, and Machine Learning. We believe that the workshop will give a new view on ADO 3D modeling from videos and images and thus will be interesting to 3D vision and machine learning experts on one hand, and will offer new solutions to challenging problems in computer vision, pattern recognition and computer graphics, and thus would appeal to experts in these fields on the other.
 
@@ -34,7 +34,9 @@ The main focus of the workshop is on the generation of 3D models of articulated 
 - Articulated and deformable object 3D shape and pose datasets
 
 == {{<a name='CFP'> Call for Papers </a>}}
-The workshop will mainly consist of invited talks given by renowned researchers on the relevant topics as well as a poster session where submissions accepted to the wokshop will be presented. Relevant original contributions as well as contributions that have been recently presented in other venues, including the ICCV main conference are welcome.
+
+The workshop will mainly consist of invited talks given by renowned researchers on the relevant topics as well as presentations of submissions accepted to the wokshop.
+Relevant original contributions as well as contributions that have been recently presented in other venues, including the ICCV main conference are welcome.
 
 === Instructions
 -   Submissions should follow the ICCV format (templates can be found [http://iccv2017.thecvf.com/submission/main_conference/author_guidelines here])
@@ -123,19 +125,43 @@ Chalmers
 <td style="padding-bottom: 2em;">
 USC
 </td>
-<td>
+<td style="padding-bottom: 2em;">
 UCL
 </td>
-<td>
+<td style="padding-bottom: 2em;">
 UBC
 </td>
-<td>
+<td style="padding-bottom: 2em;">
 IMATI-CNR
 </td>
 </tr>
 </table>
 ~~~
 
+== {{<a name='Schedule'> Schedule </a>}}
+~~~
+Preliminary - subject to change
+~~~
+
+~~~
+{}{table}{schedule}
+8:30   - 8:40  |   Opening ||
+8:40   - 9:10  | Lourdes Agapito - UCL||
+9:10   - 9:40  | Hao Li - USC ||
+9:40   - 9:55  | Submission 1 ||
+9:55   - 10:10 | Submission 2 ||
+10:15 - 11:00 | Coffee break ||
+11:00 - 11:30 | Andrew Fitzgibbon - Microsoft||
+11:30 - 12:00 | Niloy Mitra - UCL ||
+12:00 - 12:30 | Ron Kimmel - Technion ||
+12:30 - 14:00 | Lunch break ||
+14:00 - 14:30 | Alla Sheffer - UBC ||
+14:30 - 15:00 | Silvia Zuffi - CNR ||
+15:00 - 15:30 | Marco Fratarcangeli - Chalmers ||
+15:30 - 15:45 | Submission 3 ||
+15:45 - 16:30 | Coffee break ||
+16:30 - 18:00 | Submissions
+~~~
 
 == {{<a name='Organizers'> Organizers </a>}}
 ~~~
@@ -203,4 +229,3 @@ USI Lugano
 
 </script>
 ~~~
-
