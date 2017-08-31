@@ -381,7 +381,7 @@ table.imgtable, table.imgtable td {
 #schedule tr:nth-child(n+7):nth-child(-n+9),
 #schedule tr:nth-child(n+7):nth-child(-n+9),
 #schedule tr:nth-child(n+11):nth-child(-n+14),
-#schedule tr:nth-child(16) {background: #E5E5FF}
+#schedule tr:nth-child(n+16):nth-child(-n+17) {background: #E5E5FF}
 #schedule td:nth-child(2) {
   text-align: left;
   padding-left: 30px;
