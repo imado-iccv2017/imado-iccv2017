@@ -61,9 +61,9 @@ Relevant original contributions as well as contributions that have been recently
 <td style="overflow:hidden;height:120px;">
 <img border="0" alt="Marco Fratarcangeli" src="http://www.marcofratarcangeli.it/wp-content/uploads/2017/05/Marco12_200x267.jpg" style="height:167px;margin:0 0 -47px 0;">
 </td>
-<td style="overflow:hidden;height:120px;">
+<!--td style="overflow:hidden;height:120px;">
 <img border="0" alt="Hao Li" src="http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me_files/Screen%20Shot%202014-03-08%20at%202.35.34%20PM.jpg" style="height:167px;margin:0 0 -47px 0;">
-</td>
+</td-->
 </tr>
 <tr>
 <td>
@@ -75,9 +75,9 @@ Relevant original contributions as well as contributions that have been recently
 <td>
 <a href='http://www.marcofratarcangeli.it/'>Marco Fratarcangeli</a>
 </td>
-<td>
+<!--td>
 <a href='http://www.hao-li.com'>Hao Li</a>
-</td>
+</td-->
 </tr>
 <tr>
 <td style="padding-bottom: 2em;">
@@ -88,10 +88,10 @@ Microsoft HoloLens
 </td>
 <td style="padding-bottom: 2em;">
 Chalmers
-</td>
+<!--/td>
 <td style="padding-bottom: 2em;">
 USC
-</td>
+</td-->
 </tr>
 <tr>
 <td style="overflow:hidden;height:120px;">
@@ -142,23 +142,21 @@ IMATI-CNR
 
 ~~~
 {}{table}{schedule}
-8:30  - 8:45  |   Welcome ||
-8:45  - 9:15  | Hao Li - USC ||
-9:15  - 9:45  | Lourdes Agapito - UCL||
-9:45  - 10:00  | Oral presentation 1 ||
-10:00 - 10:15 | Oral presentation 2 ||
-10:15 - 11:00 | Coffee break ||
-11:00 - 11:30 | Andrew Fitzgibbon - Microsoft||
-11:30 - 12:00 | Niloy Mitra - UCL ||
-12:00 - 12:30 | Matan Sela - Technion ||
-12:30 - 14:00 | Lunch break ||
-14:00 - 14:30 | Alla Sheffer - UBC ||
-14:30 - 15:00 | Silvia Zuffi - CNR ||
-15:00 - 15:30 | Marco Fratarcangeli - Chalmers ||
-15:30 - 15:45 | Oral presentation 3 ||
-15:45 - 16:30 | Coffee break ||
-16:30 - 16:45 | Oral presentation 4 || 
-16:45 - 17:00 | Oral presentation 5
+8:30  - 8:45  |   Welcome | ||
+8:45  - 9:15  | Silvia Zuffi - CNR | /Invited Talk/: Modeling the 3D Shape of Animals ||
+9:15  - 9:45  | Lourdes Agapito - UCL | /Invited Talk/ ||
+9:45  - 10:00  | S. Das and S. M. Bhandarkar | Local Geometry Inclusive Global Shape Representation ||
+10:00 - 10:15 | E. Küpcü and Y. Yemez | Reliable Isometric Point Correspondence From Depth ||
+10:15 - 11:00 | Coffee break | ||
+11:00 - 11:30 | Andrew Fitzgibbon - Microsoft | /Invited Talk/: A New Background Term for Model Fitting with Smooth Surfaces ||
+11:30 - 12:00 | Niloy Mitra - UCL | /Invited Talk/: Factoring Scene Elements in Cluttered Environments||
+12:00 - 12:30 | Matan Sela - Technion | /Invited Talk/: Facial Geometry Reconstruction: From Axiomatic to Learning Methodologies ||
+12:30 - 14:00 | Lunch break | ||
+14:00 - 14:30 | Alla Sheffer - UBC  | /Invited Talk/ ||
+14:30 - 14:45 | F. Mueller /et al./ | Real-Time Hand Tracking Under Occlusion From an Egocentric RGB-D Sensor ||
+14:45 - 15:00 | C. Xu /et al./ | /Invited/: Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups||
+15:00 - 15:30 | Marco Fratarcangeli - Chalmers | /Invited Talk/: Interactive Deformable Dynamic Geometries ||
+15:30 - 15:45 | A. Tewari /et al./ | MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction 
 ~~~
 
 == {{<a name='Organizers'> Organizers </a>}}
